@@ -1,20 +1,27 @@
-# Functionarglab
+# Functions with multiple arguments
 
-## Objectives
+![Thomas Edison](https://d.gr-assets.com/authors/1400354079p8/3091287.jpg)
+> I have not failed. I've just found 10,000 ways that won't work.
 
-1. Objective 1
-2. Objective 2.
+## Learning Objectives - The student should be able to..
 
-## Instructions
+* Create functions that contain multiple arguments.
+* Call on functions with multiple arguments.
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
+## What the student can do at this point 
 
-### Part 1: Do Some Stuff
+* Create variables and constants
+* Knows how to use the print function (although they might not know that it's referred to as a function at this point).
+* Can create variables of type String and Int (no other types).
+* They already completed a lab on functions (but not with multiple arguments)
+* They will have just finished reading about functions which contain multiple arguments and this will be the first time they're tested on it.
 
-## Resources
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+
+## Outline / Notes
+
+*  Not every question needs to have the student create functions with multiple arguments.
+* We don't have to limit the number of arguments to two when asking them to create functions.
 
 <a href='https://learn.co/lessons/FunctionArgLab' data-visibility='hidden'>View this lesson on Learn.co</a>
