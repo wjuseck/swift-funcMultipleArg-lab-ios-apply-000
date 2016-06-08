@@ -1,28 +1,46 @@
 //: [Go Back](@next)
-// 1
 
-print("This is the solution. :) ")
+//: ### Question 1
+func numberOfCountries(continent: String, numberOfCountries: Int) {
+    print("\(continent) is a continent which contains \(numberOfCountries) countries.")
+}
 
+let continent = "Africa"
+let numCountries = 54
 
-
-// 2
-
-let name: String
-
-
-
+numberOfCountries(continent, numberOfCountries: numCountries)
 
 
 
+//: ### Question 2
+func greeting(name: String, greeting: String) {
+    print("\(greeting), \(name)!")
+}
 
-// 3
+greeting("Danny", greeting: "Hello")
 
-var test = "test"
-
-
+//: The [original call](@next) neglected to name the second parameter, `greeting`, when calling the function. You _must_ name parameters when calling a function with multiple arguments!
 
 
 
-// 4
+//: ### Question 3
+func daysInMonth(month: String, days: Int) {
+    print("There are \(days) in \(month)")
+}
 
-var moreFakeData = "HELLO!!"    
+daysInMonth("November", days: 30)
+
+//: In the [original function definition](@next), `days` was a `String`. It should be an `Int`.
+
+
+
+//: ### Question 4
+func beverages(beverage: String, numberOfBottles: Int, holder: String) {
+    print("\(numberOfBottles) bottles of \(beverage) on the \(holder)")
+}
+
+let beverage = "soda"
+let numBottles = 64
+let holder = "counter top"
+
+beverages(beverage, numberOfBottles: numBottles, holder: holder)
